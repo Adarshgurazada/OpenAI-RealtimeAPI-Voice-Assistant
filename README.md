@@ -66,7 +66,7 @@ sudo apt-get install portaudio19-dev
 1. Clone the repository:
     ```bash
     git clone https://github.com/Adarshgurazada/OpenAI-RealtimeAPI-Voice-Assistant.git
-    cd voice-assistant
+    cd OpenAI-RealtimeAPI-Voice-Assistant
     ```
 
 2. Install the dependencies:
